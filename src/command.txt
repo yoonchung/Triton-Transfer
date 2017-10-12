@@ -1,0 +1,3 @@
+./runBlockServer.sh config.txt
+./runMetaServer.sh config.txt 1
+./runClient.sh config.txt . upload README.txt

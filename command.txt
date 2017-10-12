@@ -1,0 +1,5 @@
+./runClient.sh <config_file> <base_dir> <command> <filename>
+
+./runMetaServer.sh <config_file> <id>
+
+./runBlockServer.sh <config_file>
